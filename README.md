@@ -41,7 +41,7 @@ We verified and the data were processed into the tables.
 We created a star schema, and created an ETL Pipeline for ongoing Json data to be processed into the datatables.  
 The analytics team from Sparkify will be able to have easier access to whatever data they need from the Json files.
 
-For ETL Process scripts, please view https://github.com/brian83720/Udacity_Data_Engineering/blob/main/ETL%20Process.ipynb
-For ETL Pipeline scripts, please view https://github.com/brian83720/Udacity_Data_Engineering/blob/main/etl.py
-create_tables.py and sql_queries.py will also be in the repository to view.
+For ETL Process scripts, please view https://github.com/brian83720/Udacity_Data_Engineering/blob/main/ETL%20Process.ipynb  
+For ETL Pipeline scripts, please view https://github.com/brian83720/Udacity_Data_Engineering/blob/main/etl.py  
+create_tables.py and sql_queries.py will also be in the repository to view.  
 Thank you!
